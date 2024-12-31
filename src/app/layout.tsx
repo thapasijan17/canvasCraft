@@ -5,7 +5,7 @@ import { Providers } from "./Providers";
 import { Suspense } from "react";
 
 export const metadata: Metadata = {
-  title: "Liveblocks",
+  title: "canvasCraft",
 };
 
 const inter = Inter({
